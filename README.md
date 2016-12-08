@@ -1,7 +1,7 @@
 # Exercism
 
-![Clojure](https://raw.githubusercontent.com/stepankuzmin/exercism/master/clojure-icon.png)
-![Erlang](https://raw.githubusercontent.com/stepankuzmin/exercism/master/erlang-icon.svg)
+<img src="https://cdn.rawgit.com/stepankuzmin/exercism/master/clojure-icon.png" width="48">
+<img src="https://cdn.rawgit.com/stepankuzmin/exercism/master/erlang-icon.svg" width="48">
 
 Exercism problems solutions.
 
